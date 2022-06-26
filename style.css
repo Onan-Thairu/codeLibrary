@@ -39,3 +39,17 @@ footer {
     text-align: center;
     
 }
+
+.bookDescription {
+    /* background-color: gray; */
+    text-align: center;
+}
+
+.book {
+    margin-bottom: 100px;
+    
+}
+
+.title {
+    font-size: 1.8em;
+}
