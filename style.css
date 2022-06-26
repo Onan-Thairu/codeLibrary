@@ -1,0 +1,41 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #F5FAFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    text-align: center;
+
+}
+
+#logo {
+    font-size: 25px;
+    letter-spacing: .7em;
+    font-weight: bold;
+}
+
+#intro {
+    letter-spacing: .2em;
+    margin-bottom: 80px;
+}
+
+.languages img {
+    width: 150px;
+    
+}
+
+.languages {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 200px auto;
+    gap: 30px;
+    text-align: center;
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+    
+}
