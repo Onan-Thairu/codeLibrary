@@ -12,7 +12,7 @@
  
  
  ## Description
- <p>A coding books library website.</p>
+ A coding books library website made using Google Books API.
  
  ## Installation
  
@@ -29,6 +29,8 @@
  * CSS
 
  * JavaScript
+
+ * Google Books API
  
  
  ### Link to Github pages
